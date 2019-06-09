@@ -1,0 +1,39 @@
+
+step 1 create partition
+step 2 format that partition NTFS ,HFS+,XFS,
+				FAT ,vfat
+step 3 mount --/dev/xvdf1---> connext to os
+os  ---/dev/xvdf1  any location folder creaated /tmp/newvolume
+								/dev/xvdf1--->connected to /tmp/newvolume and icon on desktop
+
+
+
+mount- create a folder and --map/link partiotion
+
+
+
+
+web server
+
+apache( free open source
+----apache httpd  (globally supported all os)
+----apache apache2 only on ubuntu type os
+
+
+WAMP XAMP LAMP
+
+NGINX
+IIS ---.net very powerful
+
+apache TOMCAT very powerful for java oriented sites
+
+
+
+
+
+to deploy any server in linux
+step 1 : isntall software related  to that server
+step 2 : configure that server --do required changes
+step 3: service
+
+imp: /var/www/html have ur file here ---document root of apache
